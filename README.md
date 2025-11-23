@@ -19,7 +19,7 @@ The system uses Python programming fundamentals such as:
 5.modular programming
 
 
-3. Problem Statement:
+Problem Statement:
 Manual attendance tracking can lead to:
 
 1)Loss or damage of paper registers
@@ -31,7 +31,7 @@ Manual attendance tracking can lead to:
 4)Time inefficiency
 
 
-4. Objectives:
+Objectives:
 
 1)To record student attendance efficiently using a digital method
 
