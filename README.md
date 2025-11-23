@@ -56,8 +56,3 @@ This project is intended for:
 
 
 ~It can be extended in the future with features like GUI, database integration, QR scanning, or biometric input.
-
-
-
-
-
