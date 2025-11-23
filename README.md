@@ -24,9 +24,7 @@ Takes the student name as input
 
 Gets the current date and time automatically
 
-Checks if attendance already exists for that day
-
-Saves the record if not already present
+Saves the record as present
 
 3. Choosing View Attendance displays all stored records.
 
@@ -55,42 +53,6 @@ OUTPUT IS :
 3. Exit
 Enter your choice: 1
 
-Enter student name: Aaradhya Jain 
-⚠ Attendance already recorded for today.
-
-===== STUDENT ATTENDANCE SYSTEM =====
-1. Mark Attendance
-2. View Attendance
-3. Exit
-Enter your choice: 1
-
-Enter student name: Aarushi Raizada 
-✔ Attendance marked successfully!
-
-===== STUDENT ATTENDANCE SYSTEM =====
-1. Mark Attendance
-2. View Attendance
-3. Exit
-Enter your choice: 1
-
-Enter student name: Abhineet R
-✔ Attendance marked successfully!
-
-===== STUDENT ATTENDANCE SYSTEM =====
-1. Mark Attendance
-2. View Attendance
-3. Exit
-Enter your choice: 1
-
-Enter student name: Abhishek Singh
-✔ Attendance marked successfully!
-
-===== STUDENT ATTENDANCE SYSTEM =====
-1. Mark Attendance
-2. View Attendance
-3. Exit
-Enter your choice: 1
-
 Enter student name: Aditya Singh
 ✔ Attendance marked successfully!
 
@@ -100,7 +62,7 @@ Enter student name: Aditya Singh
 3. Exit
 Enter your choice: 1
 
-Enter student name: Aman Singh 
+Enter student name: Aman Singh
 ✔ Attendance marked successfully!
 
 ===== STUDENT ATTENDANCE SYSTEM =====
@@ -109,7 +71,7 @@ Enter student name: Aman Singh
 3. Exit
 Enter your choice: 1
 
-Enter student name: Anish Saha 
+Enter student name: Ankit Kumar
 ✔ Attendance marked successfully!
 
 ===== STUDENT ATTENDANCE SYSTEM =====
@@ -118,16 +80,7 @@ Enter student name: Anish Saha
 3. Exit
 Enter your choice: 1
 
-Enter student name: Anuj
-⚠ Attendance already recorded for today.
-
-===== STUDENT ATTENDANCE SYSTEM =====
-1. Mark Attendance
-2. View Attendance
-3. Exit
-Enter your choice: 1
-
-Enter student name: Aryan Raj
+Enter student name: Aryan Chahal
 ✔ Attendance marked successfully!
 
 ===== STUDENT ATTENDANCE SYSTEM =====
@@ -136,7 +89,16 @@ Enter student name: Aryan Raj
 3. Exit
 Enter your choice: 1
 
-Enter student name: Ayush Yadav
+Enter student name: Ayush Yadav 
+✔ Attendance marked successfully!
+
+===== STUDENT ATTENDANCE SYSTEM =====
+1. Mark Attendance
+2. View Attendance
+3. Exit
+Enter your choice: 1
+
+Enter student name: Badal Dubey 
 ✔ Attendance marked successfully!
 
 ===== STUDENT ATTENDANCE SYSTEM =====
@@ -154,7 +116,7 @@ Enter student name: Bhavya
 3. Exit
 Enter your choice: 1
 
-Enter student name: Farah Raza
+Enter student name: Harsh Sanjay
 ✔ Attendance marked successfully!
 
 ===== STUDENT ATTENDANCE SYSTEM =====
@@ -163,7 +125,7 @@ Enter student name: Farah Raza
 3. Exit
 Enter your choice: 1
 
-Enter student name: Hemant Singh 
+Enter student name: Janani
 ✔ Attendance marked successfully!
 
 ===== STUDENT ATTENDANCE SYSTEM =====
@@ -172,7 +134,16 @@ Enter student name: Hemant Singh
 3. Exit
 Enter your choice: 1
 
-Enter student name: Kavya Sharma 
+Enter student name: Kavya Sharma
+✔ Attendance marked successfully!
+
+===== STUDENT ATTENDANCE SYSTEM =====
+1. Mark Attendance
+2. View Attendance
+3. Exit
+Enter your choice: 1
+
+Enter student name: Lav
 ✔ Attendance marked successfully!
 
 ===== STUDENT ATTENDANCE SYSTEM =====
@@ -182,43 +153,7 @@ Enter student name: Kavya Sharma
 Enter your choice: 1
 
 Enter student name: Manas
-⚠ Attendance already recorded for today.
-
-===== STUDENT ATTENDANCE SYSTEM =====
-1. Mark Attendance
-2. View Attendance
-3. Exit
-Enter your choice: 1
-
-Enter student name: Mayank Sharma
-✔ Attendance marked successfully!
-
-===== STUDENT ATTENDANCE SYSTEM =====
-1. Mark Attendance
-2. View Attendance
-3. Exit
-Enter your choice: 1
-
-Enter student name: Mohit Pillai
-✔ Attendance marked successfully!
-
-===== STUDENT ATTENDANCE SYSTEM =====
-1. Mark Attendance
-2. View Attendance
-3. Exit
-Enter your choice: 1
-
-Enter student name: Naman 
-✔ Attendance marked successfully!
-
-===== STUDENT ATTENDANCE SYSTEM =====
-1. Mark Attendance
-2. View Attendance
-3. Exit
-Enter your choice: 1
-
-Enter student name: Nisha Yadav
-✔ Attendance marked successfully!
+✔ Attendance marked successfully
 
 ===== STUDENT ATTENDANCE SYSTEM =====
 1. Mark Attendance
@@ -244,25 +179,7 @@ Enter student name: Palak Priya
 3. Exit
 Enter your choice: 1
 
-Enter student name: Piya
-✔ Attendance marked successfully!
-
-===== STUDENT ATTENDANCE SYSTEM =====
-1. Mark Attendance
-2. View Attendance
-3. Exit
-Enter your choice: 1
-
-Enter student name: Rahul Singh
-✔ Attendance marked successfully!
-
-===== STUDENT ATTENDANCE SYSTEM =====
-1. Mark Attendance
-2. View Attendance
-3. Exit
-Enter your choice: 1
-
-Enter student name: Rohan 
+Enter student name: Rahul Kumar
 ✔ Attendance marked successfully!
 
 ===== STUDENT ATTENDANCE SYSTEM =====
@@ -280,7 +197,7 @@ Enter student name: Satyam
 3. Exit
 Enter your choice: 1
 
-Enter student name: Shivam 
+Enter student name: Shivam
 ✔ Attendance marked successfully!
 
 ===== STUDENT ATTENDANCE SYSTEM =====
@@ -289,7 +206,7 @@ Enter student name: Shivam
 3. Exit
 Enter your choice: 1
 
-Enter student name: Surbhi 
+Enter student name: Shurbhi
 ✔ Attendance marked successfully!
 
 ===== STUDENT ATTENDANCE SYSTEM =====
@@ -298,7 +215,7 @@ Enter student name: Surbhi
 3. Exit
 Enter your choice: 1
 
-Enter student name: Tanmay Tiwari
+Enter student name: Tharun Mani
 ✔ Attendance marked successfully!
 
 ===== STUDENT ATTENDANCE SYSTEM =====
@@ -307,7 +224,7 @@ Enter student name: Tanmay Tiwari
 3. Exit
 Enter your choice: 1
 
-Enter student name: Vivek Yadav 
+Enter student name: Vivek Yadav
 ✔ Attendance marked successfully!
 
 ===== STUDENT ATTENDANCE SYSTEM =====
@@ -316,7 +233,7 @@ Enter student name: Vivek Yadav
 3. Exit
 Enter your choice: 1
 
-Enter student name: Yash Kumar 
+Enter student name: Yug 
 ✔ Attendance marked successfully!
 
 ===== STUDENT ATTENDANCE SYSTEM =====
@@ -325,124 +242,33 @@ Enter student name: Yash Kumar
 3. Exit
 Enter your choice: 2
 
+Date:2025-11-24               Time:00:48
+========================================
+
+
 📌 Attendance Records:
-Anya,2025-11-23,11:24:19
-
-Rahul,2025-11-23,12:27:04
-
-Jaswant,2025-11-23,12:27:21
-
-Aaradhya,2025-11-23,12:28:26
-
-Aarushi,2025-11-23,12:28:35
-
-Abhineet,2025-11-23,12:28:47
-
-Abhishek,2025-11-23,12:28:59
-
-Aditya,2025-11-23,12:29:09
-
-Aklesh,2025-11-23,12:29:21
-
-Alfrin,2025-11-23,12:29:31
-
-Aman,2025-11-23,12:29:37
-
-Anisha,2025-11-23,12:29:46
-
-Ankit,2025-11-23,12:29:54
-
-Anmol,2025-11-23,12:30:04
-
-Anuj,2025-11-23,12:30:09
-
-Arnav,2025-11-23,12:30:16
-
-Aryan,2025-11-23,12:30:46
-
-Atharv,2025-11-23,12:31:03
-
-Badal,2025-11-23,12:31:15
-
-Drishti,2025-11-23,12:31:34
-
-Eshita,2025-11-23,12:31:42
-
-Farah,2025-11-23,12:31:53
-
-Hemant,2025-11-23,12:32:03
-
-Kavya,2025-11-23,12:33:18
-
-Khant,2025-11-23,12:33:25
-
-Krishna,2025-11-23,12:33:34
-
-Luv,2025-11-23,12:33:46
-
-Madav,2025-11-23,12:34:01
-
-Manas,2025-11-23,12:34:11
-
-Mayank,2025-11-23,12:34:22
-
-Mohit,2025-11-23,12:34:29
-
-Aaradhya Jain,2025-11-23,22:55:45
-
-Aarushi Raizada,2025-11-23,22:57:39
-
-Abhineet R,2025-11-23,22:57:50
-
-Abhishek Singh,2025-11-23,22:58:01
-
-Aditya Singh,2025-11-23,22:58:14
-
-Aman Singh,2025-11-23,22:58:49
-
-Anish Saha,2025-11-23,22:59:02
-
-Aryan Raj,2025-11-23,22:59:23
-
-Ayush Yadav,2025-11-23,22:59:35
-
-Bhavya,2025-11-23,22:59:44
-
-Farah Raza,2025-11-23,22:59:56
-
-Hemant Singh,2025-11-23,23:00:08
-
-Kavya Sharma,2025-11-23,23:00:20
-
-Mayank Sharma,2025-11-23,23:00:44
-
-Mohit Pillai,2025-11-23,23:00:53
-
-Naman,2025-11-23,23:01:02
-
-Nisha Yadav,2025-11-23,23:01:24
-
-Om Rathod,2025-11-23,23:01:34
-
-Palak Priya,2025-11-23,23:01:51
-
-Piya,2025-11-23,23:02:06
-
-Rahul Singh,2025-11-23,23:02:17
-
-Rohan,2025-11-23,23:02:29
-
-Satyam,2025-11-23,23:02:45
-
-Shivam,2025-11-23,23:02:54
-
-Surbhi,2025-11-23,23:03:06
-
-Tanmay Tiwari,2025-11-23,23:03:19
-
-Vivek Yadav,2025-11-23,23:03:37
-
-Yash Kumar,2025-11-23,23:03:51
+Name of the student: Mohit
+Name of the student: Aditya Singh
+Name of the student: Aman Singh
+Name of the student: Ankit Kumar
+Name of the student: Aryan Chahal
+Name of the student: Ayush Yadav
+Name of the student: Badal Dubey
+Name of the student: Bhavya
+Name of the student: Harsh Sanjay
+Name of the student: Janani
+Name of the student: Kavya Sharma
+Name of the student: Lav
+Name of the student: Manas
+Name of the student: Om Rathod
+Name of the student: Palak Priya
+Name of the student: Rahul Kumar
+Name of the student: Satyam
+Name of the student: Shivam
+Name of the student: Shurbhi
+Name of the student: Tharun Mani
+Name of the student: Vivek Yadav
+Name of the student: Yug
 
 ===== STUDENT ATTENDANCE SYSTEM =====
 1. Mark Attendance
