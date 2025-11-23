@@ -22,7 +22,11 @@ The system uses Python programming fundamentals such as:
 4. Objectives:
 
 1)To record student attendance efficiently using a digital method
+
 2)To store attendance records securely in a file
+
 3)To make attendance retrieval fast and simple
+
 4)To eliminate duplicate marking for the same student on the same day
+
 5)To apply programming concepts learned in the course to solve a real-world problem
