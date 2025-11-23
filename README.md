@@ -1,23 +1,35 @@
 PROJECT TITLE : STUDENT ATTENDANCE MANAGEMENT SYSTEM
 
 OVERVIEW:
+
 Attendance management is an essential part of academic and training environments. Traditionally, attendance is recorded manually using paper sheets or registers, which is time-consuming, prone to errors, and difficult to maintain for long-term tracking.
 
 This project proposes a simple console-based Student Attendance Management System that allows users to record attendance digitally, store records for future reference, and reduce manual effort.
 
 The system uses Python programming fundamentals such as:
+
 1.input/output handling
+
 2.conditional statements
+
 3.loops
+
 4.file processing
+
 5.modular programming
 
+
 3. Problem Statement:
-1)Manual attendance tracking can lead to:
-2)Loss or damage of paper registers
-3)Difficulty retrieving past records
-4)Duplicate entries
-5)Time inefficiency
+Manual attendance tracking can lead to:
+
+1)Loss or damage of paper registers
+
+2)Difficulty retrieving past records
+
+3)Duplicate entries
+
+4)Time inefficiency
+
 
 4. Objectives:
 
