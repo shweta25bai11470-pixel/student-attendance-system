@@ -6,6 +6,33 @@ Attendance management is an essential part of academic and training environments
 
 This project proposes a simple console-based Student Attendance Management System that allows users to record attendance digitally, store records for future reference, and reduce manual effort.
 
+
+🚀 Installation & Setup
+
+Prerequisites
+
+Python 3.x installed on your system.
+
+
+📌 How It Works
+
+1. When the program starts, a menu is displayed with three options.
+
+2. If you choose Mark Attendance, the system:
+
+Takes the student name as input
+
+Gets the current date and time automatically
+
+Checks if attendance already exists for that day
+
+Saves the record if not already present
+
+3. Choosing View Attendance displays all stored records.
+
+4. Choosing Exit stops the program.
+
+
 The system uses Python programming fundamentals such as:
 
 1.input/output handling
@@ -20,6 +47,16 @@ The system uses Python programming fundamentals such as:
 
 
 OUTPUT IS :
+
+
+===== STUDENT ATTENDANCE SYSTEM =====
+1. Mark Attendance
+2. View Attendance
+3. Exit
+Enter your choice: 1
+
+Enter student name: Aaradhya Jain 
+⚠ Attendance already recorded for today.
 
 ===== STUDENT ATTENDANCE SYSTEM =====
 1. Mark Attendance
@@ -73,7 +110,16 @@ Enter student name: Aman Singh
 Enter your choice: 1
 
 Enter student name: Anish Saha 
-✔ Attendance marked successfully
+✔ Attendance marked successfully!
+
+===== STUDENT ATTENDANCE SYSTEM =====
+1. Mark Attendance
+2. View Attendance
+3. Exit
+Enter your choice: 1
+
+Enter student name: Anuj
+⚠ Attendance already recorded for today.
 
 ===== STUDENT ATTENDANCE SYSTEM =====
 1. Mark Attendance
@@ -128,6 +174,15 @@ Enter your choice: 1
 
 Enter student name: Kavya Sharma 
 ✔ Attendance marked successfully!
+
+===== STUDENT ATTENDANCE SYSTEM =====
+1. Mark Attendance
+2. View Attendance
+3. Exit
+Enter your choice: 1
+
+Enter student name: Manas
+⚠ Attendance already recorded for today.
 
 ===== STUDENT ATTENDANCE SYSTEM =====
 1. Mark Attendance
