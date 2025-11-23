@@ -1,4 +1,4 @@
-PROJECT TITLE : STUDENT ATTENDANCE MANAGEMENT SYSTEM
+STUDENT ATTENDANCE MANAGEMENT SYSTEM
 
 OVERVIEW:
 
@@ -42,3 +42,22 @@ Objectives:
 4)To eliminate duplicate marking for the same student on the same day
 
 5)To apply programming concepts learned in the course to solve a real-world problem
+
+
+This project is intended for:
+
+1)Schools
+
+2)Colleges
+
+3)Training institutes
+
+4)Small groups or workshops
+
+
+~It can be extended in the future with features like GUI, database integration, QR scanning, or biometric input.
+
+
+
+
+
