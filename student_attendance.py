@@ -18,10 +18,8 @@ def mark_attendance():
 
     with open(FILE_NAME, "a") as file:
         time_now = datetime.datetime.now().strftime("%H:%M:%S")
-        file.write(f"{name},{today},{time_now}\n")
-
+        file.write(f"Name of the student: {name}\n")
     print("✔ Attendance marked successfully!")
-
 def view_attendance():
     print("\n📌 Attendance Records:")
     try:
@@ -37,7 +35,9 @@ def view_attendance():
         print("No attendance file found.")
 
 def main():
-    while True:
+ while True:
+        today = datetime.date.today().strftime("%Y-%m-%d")
+        current_time = datetime.datetime.now().strftime("%H:%M")
         print("\n===== STUDENT ATTENDANCE SYSTEM =====")
         print("1. Mark Attendance")
         print("2. View Attendance")
@@ -48,9 +48,12 @@ def main():
         if choice == "1":
             mark_attendance()
         elif choice == "2":
+            print(f"\nDate:{today}               Time:{current_time}")
+            print("========================================")
             view_attendance()
         elif choice == "3":
             print("Exiting... Goodbye!")
+            open("attendance.csv", "w").close()
             break
         else:
             print("Invalid choice. Try again!")
