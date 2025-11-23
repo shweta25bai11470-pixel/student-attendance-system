@@ -248,26 +248,47 @@ Date:2025-11-24               Time:00:48
 
 📌 Attendance Records:
 Name of the student: Mohit
+
 Name of the student: Aditya Singh
+
 Name of the student: Aman Singh
+
 Name of the student: Ankit Kumar
+
 Name of the student: Aryan Chahal
+
 Name of the student: Ayush Yadav
+
 Name of the student: Badal Dubey
+
 Name of the student: Bhavya
+
 Name of the student: Harsh Sanjay
+
 Name of the student: Janani
+
 Name of the student: Kavya Sharma
+
 Name of the student: Lav
+
 Name of the student: Manas
+
 Name of the student: Om Rathod
+
 Name of the student: Palak Priya
+
 Name of the student: Rahul Kumar
+
 Name of the student: Satyam
+
 Name of the student: Shivam
+
 Name of the student: Shurbhi
+
 Name of the student: Tharun Mani
+
 Name of the student: Vivek Yadav
+
 Name of the student: Yug
 
 ===== STUDENT ATTENDANCE SYSTEM =====
